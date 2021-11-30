@@ -1,0 +1,71 @@
+{
+  "data":[
+    {
+      "type":"gif",
+      "id":"lptjRBxFKCJmFoibP3",
+      "url":"https://giphy.com/gifs/andersonpaak-money-pool-lptjRBxFKCJmFoibP3",
+      "slug":"andersonpaak-money-pool-lptjRBxFKCJmFoibP3",
+      "bitly_gif_url":"https://gph.is/2wNpo5P",
+      "bitly_url":"https://gph.is/2wNpo5P",
+      "embed_url":"https://giphy.com/embed/lptjRBxFKCJmFoibP3",
+      "username":"andersonpaak",
+      "source":"",
+      "title":"Super League Money GIF by Anderson .Paak",
+      "rating":"g",
+      "content_url":"",
+      "source_tld":"",
+      "source_post_url":"",
+      "is_sticker":0,
+      "import_datetime":"2018-05-17 19:08:01",
+      "trending_datetime":"0000-00-00 00:00:00",
+      "images":{
+        "original":{
+          "height":"270",
+          "width":"480",
+          "size":"5873160",
+          "url":"https://media2.giphy.com/media/lptjRBxFKCJmFoibP3/giphy.gif?cid=dc38547ejmnqfaibdjqz83l6ocsgl6bmwv7gzh9frj8hj5ha&rid=giphy.gif&ct=g",
+          "mp4_size":"1186324",
+          "mp4":"https://media2.giphy.com/media/lptjRBxFKCJmFoibP3/giphy.mp4?cid=dc38547ejmnqfaibdjqz83l6ocsgl6bmwv7gzh9frj8hj5ha&rid=giphy.mp4&ct=g",
+          "webp_size":"1858810",
+          "webp":"https://media2.giphy.com/media/lptjRBxFKCJmFoibP3/giphy.webp?cid=dc38547ejmnqfaibdjqz83l6ocsgl6bmwv7gzh9frj8hj5ha&rid=giphy.webp&ct=g",
+          "frames":"65",
+          "hash":"c954d468a9486db13c102d7e52b9b4ce"
+        }
+      },
+      "user":{
+        "avatar_url":"https://media1.giphy.com/avatars/andersonpaak/fB065ocbG87e.jpg",
+        "banner_image":"https://media1.giphy.com/headers/andersonpaak/mJHINf26G4jF.jpg",
+        "banner_url":"https://media1.giphy.com/headers/andersonpaak/mJHINf26G4jF.jpg",
+        "profile_url":"https://giphy.com/andersonpaak/",
+        "username":"andersonpaak",
+        "display_name":"Anderson .Paak",
+        "description":"O X N A R D OUT NOW buy.andersonpaak.com smarturl.it/OXNARD",
+        "instagram_url":"https://instagram.com/anderson._paak",
+        "website_url":"http://www.andersonpaak.com/",
+        "is_verified":true
+      },
+      "analytics_response_payload":"e=Z2lmX2lkPWxwdGpSQnhGS0NKbUZvaWJQMyZldmVudF90eXBlPUdJRl9TRUFSQ0gmY2lkPWRjMzg1NDdlam1ucWZhaWJkanF6ODNsNm9jc2dsNmJtd3Y3Z3poOWZyajhoajVoYSZjdD1n",
+      "analytics":{
+        "onload":{
+          "url":"https://giphy-analytics.giphy.com/v2/pingback_simple?analytics_response_payload=e%3DZ2lmX2lkPWxwdGpSQnhGS0NKbUZvaWJQMyZldmVudF90eXBlPUdJRl9TRUFSQ0gmY2lkPWRjMzg1NDdlam1ucWZhaWJkanF6ODNsNm9jc2dsNmJtd3Y3Z3poOWZyajhoajVoYSZjdD1n&action_type=SEEN"
+        },
+        "onclick":{
+          "url":"https://giphy-analytics.giphy.com/v2/pingback_simple?analytics_response_payload=e%3DZ2lmX2lkPWxwdGpSQnhGS0NKbUZvaWJQMyZldmVudF90eXBlPUdJRl9TRUFSQ0gmY2lkPWRjMzg1NDdlam1ucWZhaWJkanF6ODNsNm9jc2dsNmJtd3Y3Z3poOWZyajhoajVoYSZjdD1n&action_type=CLICK"
+        },
+        "onsent":{
+          "url":"https://giphy-analytics.giphy.com/v2/pingback_simple?analytics_response_payload=e%3DZ2lmX2lkPWxwdGpSQnhGS0NKbUZvaWJQMyZldmVudF90eXBlPUdJRl9TRUFSQ0gmY2lkPWRjMzg1NDdlam1ucWZhaWJkanF6ODNsNm9jc2dsNmJtd3Y3Z3poOWZyajhoajVoYSZjdD1n&action_type=SENT"
+        }
+      }
+    }
+  ],
+  "pagination":{
+    "total_count":7809,
+    "count":1,
+    "offset":1
+  },
+  "meta":{
+    "status":200,
+    "msg":"OK",
+    "response_id":"jmnqfaibdjqz83l6ocsgl6bmwv7gzh9frj8hj5ha"
+  }
+}
